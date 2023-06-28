@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#035efc"  # Background color of the splash screen
+  image: assets/3dgifmaker82365.gif  # Path to your splash screen image asset  # Optional path to a dark mode splash screen image asset
+  fill: true  # Whether to fill the entire screen with the splash screen image
+  android: true  # Whether to generate splash screen for Android
+  ios: true  # Whether to generate splash screen for iOS
+  web: true
+  scale: 4

@@ -1,0 +1,25 @@
+name: claymorphism
+version: 0.1.2
+description: A Flutter package that provides claymorphic UI containers for a modern and aesthetic design. 
+  With Claymorphism, you can easily create visually appealing and tactile user interfaces 
+  by leveraging the popular claymorphism design trend. This package offers a collection of 
+  claymorphic containers, that can be customized to suit your application's style and branding. 
+homepage: https://claymorphism.bauhausresearch.com/
+
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+flutter:
+  licenses:
+    - LICENSE
